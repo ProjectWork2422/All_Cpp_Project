@@ -1,1 +1,1 @@
-This is  directory structure of the  cmake and make
+All cpp programs  having diffrent folder structure
