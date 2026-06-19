@@ -1,0 +1,3 @@
+/home/kimaya/cpp_project/project/build/CMakeFiles/app.dir
+/home/kimaya/cpp_project/project/build/CMakeFiles/edit_cache.dir
+/home/kimaya/cpp_project/project/build/CMakeFiles/rebuild_cache.dir
