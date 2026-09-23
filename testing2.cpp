@@ -7,6 +7,6 @@ int main(){
     cin>>a>>b;      
     /*addition of the numbers*/
     int c = a + b;
-    cout<<"The sum is: "<<c<<endl;
+    cout<<"The sum of   two number is : "<<c<<endl;
     return 0;
 }
