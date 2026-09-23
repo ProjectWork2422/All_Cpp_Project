@@ -8,6 +8,7 @@ int main(){
     int c = a + b;
     int d = a - b;
     int m=a * b;
+    float u=a/b;
 
 
     if(c>0){
@@ -18,6 +19,7 @@ int main(){
     }
     cout<<"The difference of two number is : "<<d<<endl;
     cout<<"The multiplication of two number is : "<<m<<endl;
+    cout<<"The dividation of two  numbers is : "<<u<<endl;
     
     return 0;
 }
