@@ -8,6 +8,6 @@ int main(){
     a = a + b;
     b = a - b;
     a = a - b;
-    cout<<"After swapping: a = "<<a<<", b = "<<b<<endl;
+    cout<<"After swapping  two numbers are : a = "<<a<<", b = "<<b<<endl;
     return 0;       
 }
