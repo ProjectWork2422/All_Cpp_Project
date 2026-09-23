@@ -17,6 +17,7 @@ int main(){
     else{
         cout<<"sum is less than zero which is invalid :"<<c<<endl;
     }
+    cout<<"This are the operations  excepts the   addition of two numbers"<<endl;
     cout<<"The difference of two number is : "<<d<<endl;
     cout<<"The multiplication of two number is : "<<m<<endl;
     cout<<"The dividation of two  numbers is : "<<u<<endl;
