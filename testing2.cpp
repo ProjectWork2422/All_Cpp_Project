@@ -25,6 +25,8 @@ int main(){
     cout<<"The difference of two number is : "<<d<<endl;
     cout<<"The multiplication of two number is : "<<m<<endl;
     cout<<"The dividation of two  numbers is : "<<u<<endl;
+    cout<<" This are the  all arhmatic operations   which  is   doing the actual  operations   with  the   help of the two  variables "<<endl;
+
     
     return 0;
 }
