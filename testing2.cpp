@@ -10,7 +10,7 @@ int main(){
         cout<<"The sum of   two number is : "<<c<<endl;
     }
     else{
-        cout<<"Invalid   sum  of two numbers"<<c<<endl;
+        cout<<"sum is less than zero which is invalid :"<<c<<endl;
     }
     
     return 0;
