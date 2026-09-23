@@ -9,5 +9,9 @@ int main(){
     if(c>0){
         cout<<"The sum of   two number is : "<<c<<endl;
     }
+    else{
+        cout<<"Invalid   sum";
+    }
+    
     return 0;
 }
